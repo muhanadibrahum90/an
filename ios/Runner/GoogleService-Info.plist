@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>609212195127-3h4ihbregsj4389rhmne4h1d81nmj594.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.609212195127-3h4ihbregsj4389rhmne4h1d81nmj594</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>609212195127-1mo96ih9fgdogsm8fsfv47uo9css0kec.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCs77rRLoPynONaNkiOxvYBqk0mntgkmAE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>609212195127</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aan.app</string>
+	<key>PROJECT_ID</key>
+	<string>aan-app-71294</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aan-app-71294.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:609212195127:ios:55ed1c5a9d2257a9fc7ab2</string>
+	<key>DATABASE_URL</key>
+	<string>https://aan-app-71294-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
